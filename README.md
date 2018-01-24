@@ -1,5 +1,5 @@
-# OpenWhisk Building Block - Cognitive Data Processing
-Process cognitive data with Apache OpenWhisk on IBM Bluemix. This tutorial should take about 5 minutes to complete. After this, move on to more complex serverless applications such as those tagged [_openwhisk-hands-on-demo_](https://github.com/search?q=topic%3Aopenwhisk-hands-on-demo+org%3AIBM&type=Repositories).
+# Cognitive data processing with IBM Cloud Functions
+Process cognitive data with IBM Cloud Functions powered by Apache OpenWhisk. This tutorial should take about 5 minutes to complete. After this, move on to more complex serverless applications such as those tagged [_openwhisk-hands-on-demo_](https://github.com/search?q=topic%3Aopenwhisk-hands-on-demo+org%3AIBM&type=Repositories).
 
 ![Sample Architecture](openwhisk-data-processing-cognitive.png)
 
